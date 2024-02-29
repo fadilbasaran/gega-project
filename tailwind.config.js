@@ -14,7 +14,7 @@ module.exports = {
     extend: {
       fontFamily: {
         gemunu:["Gemunu Libre", "sans-serif"],
-        opensSans:["Open Sans", "sans-serif"]
+        "open-gega":["Open Sans", "sans-serif"]
       },
       colors: {
         'gega-red': '#BC1A45',
