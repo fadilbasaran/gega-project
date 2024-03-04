@@ -2,7 +2,7 @@
 
 This project is developed using [Tailwind CSS](https://tailwindcss.com/).
 
-#Project Link
+## Project Link
 
 https://gega-project-beta.vercel.app
 
